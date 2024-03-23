@@ -56,7 +56,7 @@ function App() {
             duration: 5000,
           },
           style: {
-            dontSize: '16px',
+            fontSize: '16px',
             maxWwidth: '500px',
             padding: '16px 24px',
             backgroundColor: 'var(--color-grey-0)',
